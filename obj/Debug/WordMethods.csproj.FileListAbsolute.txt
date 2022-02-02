@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\WordMethods\bin\Debug\WordMethods.exe.config
+C:\Users\Nolan Pawelski\Desktop\WordMethods\bin\Debug\WordMethods.exe
+C:\Users\Nolan Pawelski\Desktop\WordMethods\bin\Debug\WordMethods.pdb
+C:\Users\Nolan Pawelski\Desktop\WordMethods\obj\Debug\WordMethods.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\WordMethods\obj\Debug\WordMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\WordMethods\obj\Debug\WordMethods.exe
+C:\Users\Nolan Pawelski\Desktop\WordMethods\obj\Debug\WordMethods.pdb
